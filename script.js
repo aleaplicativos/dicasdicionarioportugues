@@ -100,6 +100,13 @@ const dicas = [
 "Dica: Ironia: A ironia é uma figura de linguagem que expressa o contrário do que se pretende dizer, de forma sarcástica ou humorística. Exemplo: 'Que dia maravilhoso... só choveu o dia inteiro!",
 "Dica: Personificação: A personificação é uma figura de linguagem que atribui características humanas a objetos inanimados ou seres não humanos. Exemplo: 'A lua sorriu para mim.'",
 "Dica: Variação de estilo: Sinônimos podem ajudar a evitar repetições excessivas e a enriquecer seu texto. Experimente usar sinônimos para substituir palavras repetitivas ou para variar o estilo de escrita.",
+"Dica: Posição do adjetivo: Normalmente, os adjetivos são colocados antes do substantivo, mas também podem aparecer depois em alguns casos. Exemplo: 'Uma casa pequena' / 'Um livro interessante.'",
+"Dica: Grau do adjetivo: Os adjetivos podem expressar diferentes graus de comparação, como positivo, comparativo e superlativo. Por exemplo, 'bonito' (positivo), 'mais bonito' (comparativo) e 'o mais bonito' (superlativo).",
+"Dica: Os adjetivos descrevem características como cor, tamanho, forma, qualidade, estado, nacionalidade, idade, entre outros. Por exemplo, em 'uma casa grande', o adjetivo 'grande' descreve o tamanho da casa.",
+"Dica: Hiato: O hiato ocorre quando duas vogais estão juntas em uma palavra, mas são pronunciadas separadamente em sílabas diferentes. Exemplo: 'sa-ú-de', 'ba-ú', 'ru-í-do'.",
+"Dica: Ditongo: O ditongo ocorre quando duas vogais estão juntas em uma palavra e são pronunciadas na mesma sílaba. Pode ser um ditongo crescente, quando a vogal mais fraca vem antes da mais forte, ou um ditongo decrescente, quando a vogal mais fraca vem depois da mais forte. Exemplo de ditongo crescente: 'pai', 'ceu', 'fei-to'. Exemplo de ditongo decrescente: 'po-e-ta', 'ai-re', 'ru-im'.",
+"Dica: Tritongo: O tritongo ocorre quando três vogais estão juntas em uma palavra e são pronunciadas na mesma sílaba. É importante lembrar que, ao separar uma palavra em sílabas, o tritongo é mantido na mesma sílaba. Exemplo: 'pa-ra-guai' - Perceba que as três vogais u a e i estão juntas na mesma sílaba.",
+"Dica: Separação de sílabas: No hiato, as vogais são separadas em sílabas diferentes. No ditongo e no tritongo, as vogais estão na mesma sílaba. É importante conhecer as regras de separação de sílabas para identificar corretamente o hiato, ditongo ou tritongo em uma palavra.",
 
 ];
 
